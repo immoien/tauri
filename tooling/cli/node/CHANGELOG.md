@@ -1,5 +1,11 @@
 # Changelog
 
+## \[1.4.1]
+
+### Bug Fixes
+
+- [`dad4f54e`](https://www.github.com/tauri-apps/tauri/commit/dad4f54eec9773d2ea6233a7d9fd218741173823)([#7273](https://www.github.com/tauri-apps/tauri/pull/7273)) Removed the automatic version check of the CLI that ran after `tauri` commands which caused various issues.
+
 ## \[1.4.0]
 
 ### New Features

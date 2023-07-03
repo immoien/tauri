@@ -1,5 +1,11 @@
 # Changelog
 
+## \[1.4.2]
+
+### Bug Fixes
+
+- [`1a3dcdb8`](https://www.github.com/tauri-apps/tauri/commit/1a3dcdb8302fad511f2c1cd418fbc4cff0bd62ac)([#7184](https://www.github.com/tauri-apps/tauri/pull/7184)) On Windows, fix NSIS installers requiring administrator rights failing to be launched by updater.
+
 ## \[1.4.1]
 
 ### Bug Fixes
