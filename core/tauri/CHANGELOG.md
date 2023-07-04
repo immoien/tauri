@@ -1,5 +1,15 @@
 # Changelog
 
+## \[2.0.0-alpha.11]
+
+### Dependencies
+
+- [`d1a6e2f3`](https://www.github.com/tauri-apps/tauri/commit/d1a6e2f33326161a78a9a72bd9320dcb1b1f9710)([#7252](https://www.github.com/tauri-apps/tauri/pull/7252)) Update `state` to v0.6.
+
+### New Features
+
+- [`2a000e15`](https://www.github.com/tauri-apps/tauri/commit/2a000e150d02dff28c8b20ad097b29e209160045)([#7235](https://www.github.com/tauri-apps/tauri/pull/7235)) Added `Window::navigate`.
+
 ## \[2.0.0-alpha.10]
 
 ### New Features

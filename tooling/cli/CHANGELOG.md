@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-alpha.11]
+
+### Bug Fixes
+
+- [`5eb85543`](https://www.github.com/tauri-apps/tauri/commit/5eb85543313eaf7ca2289898652b1b11dc776608)([#7282](https://www.github.com/tauri-apps/tauri/pull/7282)) Fix `tauri info` failing when there is no available iOS code signing certificate.
+
 ## \[2.0.0-alpha.10]
 
 ### New Features

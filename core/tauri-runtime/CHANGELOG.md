@@ -1,5 +1,11 @@
 # Changelog
 
+## \[0.13.0-alpha.7]
+
+### New Features
+
+- [`2a000e15`](https://www.github.com/tauri-apps/tauri/commit/2a000e150d02dff28c8b20ad097b29e209160045)([#7235](https://www.github.com/tauri-apps/tauri/pull/7235)) Added `navigate` function to `Dispatch` trait.
+
 ## \[0.13.0-alpha.6]
 
 ### New Features
